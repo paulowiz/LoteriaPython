@@ -1,3 +1,2 @@
-random
 flask
 flask-table
